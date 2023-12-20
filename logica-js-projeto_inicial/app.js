@@ -21,4 +21,4 @@ while (chute != numeroSecreto) {
             }
         }
     }
-}
+}//teste
